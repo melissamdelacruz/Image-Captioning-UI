@@ -39,7 +39,7 @@ Press Win + R, type sysdm.cpl, and press Enter.
   . 
  
  
-4. Run file "(whichever file the GUI has)"  
+4. Run file  
 Run the following command in cmd  
 python fine_tuned.py 
 Alternatively you can try running it by opening the fine_tuned.exe file in the dist 
